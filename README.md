@@ -1,8 +1,3 @@
-# FSD Practicals
-
-A comprehensive collection of Full Stack Development practical projects built with modern web technologies.
-
-## 📁 Projects Overview
 
 This repository contains multiple web development projects demonstrating various concepts and technologies:
 
@@ -127,9 +122,3 @@ All projects are **completed and functional** with the following features:
 - ✅ Clean, maintainable code structure
 
 
-
----
-
-**Built with ❤️ for Full Stack Development Learning**
-
-*Last Updated: September 19, 2025*
